@@ -28,8 +28,6 @@ IPNOVA SYSTEMS LTD is a software company based in Larnaca, Cyprus. We design, en
 | [TariffCodeCheck](https://tariffcodecheck.com) | HS and tariff codes with US and UK duty data |
 | [EmailDomainCheck](https://emaildomaincheck.com) | Disposable email domain detection, list-based |
 | [VinDecoderCheck](https://vindecodercheck.com) | VIN decoding with specifications, recalls and fuel economy |
-| [PocketCyprus](https://pocketcyprus.com) | The whole of Cyprus in your pocket, curated by locals |
-| [PocketMadeira](https://pocketmadeira.com) | Madeira's places, trails and levadas, curated by locals |
 
 ## Free APIs
 
