@@ -4,7 +4,7 @@
 
 **We build and own the software we ship.**
 
-[Website](https://ipnova.com) · [Free APIs](https://github.com/IPNOVA/free-apis) · [Contact](mailto:hello@ipnova.com)
+[Website](https://ipnova.com) · [Free APIs](https://github.com/IPNOVA/free-apis) · [API keys](https://api.ipnova.com/?utm_source=github&utm_medium=org-profile&utm_campaign=free-apis) · [Contact](mailto:hello@ipnova.com)
 
 </div>
 
@@ -31,7 +31,7 @@ IPNOVA SYSTEMS LTD is a software company based in Larnaca, Cyprus. We design, en
 
 ## Free APIs
 
-Twelve of our platforms expose **free JSON APIs**: no key, no registration, CORS enabled. Specifications, examples and terms live in **[IPNOVA/free-apis](https://github.com/IPNOVA/free-apis)**. Higher volumes and commercial support are available through **[api.ipnova.com](https://api.ipnova.com)**.
+Twelve of our platforms expose **free JSON APIs**: no key, no registration, CORS enabled. Specifications, examples and terms live in **[IPNOVA/free-apis](https://github.com/IPNOVA/free-apis)**. Higher volumes and commercial support are available through **[api.ipnova.com](https://api.ipnova.com/?utm_source=github&utm_medium=org-profile&utm_campaign=free-apis)**.
 
 ## Company
 
