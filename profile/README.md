@@ -25,7 +25,7 @@ IPNOVA SYSTEMS LTD is a software company based in Larnaca, Cyprus. We design, en
 | [BankHolidayCheck](https://bankholidaycheck.com) | Bank and public holidays for 246 countries, in 5 languages |
 | [MacVendorCheck](https://macvendorcheck.com) | MAC address / OUI vendor lookup from the IEEE registry |
 | [AirportCodeCheck](https://airportcodecheck.com) | IATA / ICAO airport codes and direct-flight routes |
-| [TariffCodeCheck](https://tariffcodecheck.com) | HS and tariff codes with US and UK duty data |
+| [TariffCodeCheck](https://tariffcodecheck.com) | HS and tariff codes with US, EU and UK duty data |
 | [EmailDomainCheck](https://emaildomaincheck.com) | Disposable email domain detection, list-based |
 | [VinDecoderCheck](https://vindecodercheck.com) | VIN decoding with specifications, recalls and fuel economy |
 
